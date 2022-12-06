@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.2",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "framer-motion": "^7.6.18",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-camera-pro": "^1.2.1",
+    "react-dom": "18.2.0"
+  }
+}
